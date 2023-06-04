@@ -69,3 +69,5 @@ print(v1 + 3)
 print(3 + v1)
 print(v1 - 3) 
 print(30 - v2) 
+
+#finished project testing git
